@@ -34,13 +34,13 @@ This type of system can be used for:
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.PNG)
 
 ### Data Table
-![Data](screenshots/data.png)
+![Data](screenshots/data.PNG)
 
 ### Summary Report
-![Report](screenshots/report.png)
+![Report](screenshots/report.PNG)
 
 ---
 
